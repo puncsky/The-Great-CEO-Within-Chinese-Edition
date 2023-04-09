@@ -1,6 +1,7 @@
 # 卓越的 CEO 如何从 0 打造品类杀手级公司
 
-在线阅读： [tianpan.co/great-ceo-within-cn/](https://tianpan.co/great-ceo-within-cn/)
+* 在线阅读： [tianpan.co/great-ceo-within-cn/](https://tianpan.co/great-ceo-within-cn/)
+* 原文：https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#
 
 以下为原书内容
 
