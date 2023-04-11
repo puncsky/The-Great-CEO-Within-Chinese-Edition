@@ -34,7 +34,7 @@
 * [](./src/chapter-18.md)
 * [](./src/chapter-19.md)
 * [第20章：责任领域（AORs）](./src/chapter-20.md)
-* [](./src/chapter-21.md)
+* [第21章：单点故障](./src/chapter-21.md)
 * [](./src/chapter-22.md)
 
 * [](./src/chapter-3.md)
