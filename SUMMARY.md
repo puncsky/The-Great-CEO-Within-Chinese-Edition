@@ -7,7 +7,7 @@
 * [第1章：开始](./src/chapter-1.md)
 * [第2章：团队](./src/chapter-2.md)
 
-## 第二部分 -- 个人习惯 
+## 第二部分 -- 个人习惯
 
 * [第3章：完成任务（GTD）](./src/chapter-3.md)
 * [第4章：清空收件箱](./src/chapter-4.md)
@@ -29,8 +29,13 @@
 * [](./src/chapter-17.md)
 * [](./src/chapter-18.md)
 
-Part IV — Infrastructure
+## 第四部分 -- 基础建设
 
+* [](./src/chapter-18.md)
+* [](./src/chapter-19.md)
+* [第20章：责任领域（AORs）](./src/chapter-20.md)
+* [第21章：单点故障](./src/chapter-21.md)
+* [](./src/chapter-22.md)
 
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
@@ -46,9 +51,3 @@ Part IV — Infrastructure
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
-* [](./src/chapter-3.md)
-* [](./src/chapter-3.md)
-* [](./src/chapter-3.md)
-* [](./src/chapter-3.md)
-* [](./src/chapter-3.md)
-
