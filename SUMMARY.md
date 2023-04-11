@@ -7,7 +7,7 @@
 * [第1章：开始](./src/chapter-1.md)
 * [第2章：团队](./src/chapter-2.md)
 
-## 第二部分 -- 个人习惯 
+## 第二部分 -- 个人习惯
 
 * [第3章：完成任务（GTD）](./src/chapter-3.md)
 * [第4章：清空收件箱](./src/chapter-4.md)
@@ -51,4 +51,3 @@
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
-
